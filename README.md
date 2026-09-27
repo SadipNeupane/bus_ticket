@@ -8,7 +8,7 @@ A clean, modern, and production-ready Flutter authentication module (Login & Reg
 
 | Login Screen | Registration Screen |
 | :---: | :---: |
-| ![Login Screen](screenshots/login.png) | ![Registration Screen](screenshots/register.png) |
+| <img src="assets/images/login.png" width="300" alt="Login Screen" /> | <img src="assets/images/register.png" width="300" alt="Registration Screen" /> |
 
 ---
 
