@@ -15,7 +15,7 @@ A clean, modern, and production-ready Flutter authentication module (Login & Reg
 ## ✨ Key Features
 
 ### 🔐 Login Module (`login_screen.dart`)
-- **Branding Header:** Custom `AuthHeader` widget displaying a transit bus badge and application title.
+- **Branding Header:** Custom `AuthHeader` widget displaying a transit bus badge and application .
 - **Email/Username Input:** Includes prefix icon, floating labels, clear hint text, and minimum 3-character validation.
 - **Password Input:** Password field with prefix icon and interactive eye toggle for show/hide visibility.
 - **Forgot Password Action:** Quick action text button triggering a demo notification `SnackBar`.
